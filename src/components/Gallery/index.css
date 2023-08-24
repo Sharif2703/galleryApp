@@ -1,0 +1,33 @@
+/* Write your code here. */
+.galleryApp-bg {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  padding: 30px;
+}
+
+.galleryApp-main-image {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.galleryApp-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.image-list {
+  display: flex;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+}
+
+.main-image {
+  width: 45%;
+  height: 35%;
+  margin-top: 10%;
+}

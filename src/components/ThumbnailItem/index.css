@@ -1,0 +1,16 @@
+/* Write your code here. */
+.list-items {
+  list-style: none;
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
+.btn {
+  background-color: none;
+  outline: none;
+  cursor: pointer;
+  border: none;
+  margin: 4px;
+}
